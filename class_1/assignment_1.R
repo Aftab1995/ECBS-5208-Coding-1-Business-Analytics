@@ -27,7 +27,7 @@ v <- c(3, 363, 777, 2021,-987, Inf)
 mL <- list(str_var, v)
   
 # 7) Get the value of 'Inf' out of this 'mL' variable with indexing
- mL[[2]][4]
+ mL[[2]][6]
 
 # +1) decide whether the former extracted value is infinite or not. 
 #   The result should be a logical value.
